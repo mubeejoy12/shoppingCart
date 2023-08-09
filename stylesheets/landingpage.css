@@ -54,7 +54,7 @@ nav button{
     } */
 nav #drop{
     position: absolute;
-    top:5.9rem;
+    top:6.5rem;
     left:5.5rem;
     background:rgb(242, 242, 242);   
     padding:0.2rem 13rem;
@@ -71,7 +71,7 @@ nav #drop{
     color: rgba(0, 0, 0, 0.7);
 }
 .carContainer{
-    padding: 10rem 4rem 0 5.5rem;
+    padding: 10.5rem 4rem 0 5.5rem;
     display: flex;
     /* grid-template-columns:2fr 1.5fr 5fr; */
     gap:2rem;
@@ -83,6 +83,5 @@ nav #drop{
 .carContainer .side2{
     background: rgb(196, 196, 196);
     max-width:18vw;
-    padding-top:4rem 0;
-    margin-top: ;
+    padding:4rem 1rem;
 }
